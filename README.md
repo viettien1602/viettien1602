@@ -12,8 +12,6 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=viettien1602&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=viettien1602&icon=0&color=11)](https://visitcount.itsvg.in)
