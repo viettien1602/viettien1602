@@ -2,7 +2,7 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">An enthusiastic developer from Vietnam </h3>
 
-<p align = "center"> <img src = "https://visitcount.itsvg.in/api?id=viettien1602&icon=0&color=11"/ alt = "nvitie"> <img src = "https://visitcount.itsvg.in" style = "display:none;"/></div>
+<p align = "center"> <img src = "https://visitcount.itsvg.in/api?id=viettien1602&icon=0&color=11"/ alt = "nvitie"> <img src = "https://visitcount.itsvg.in" style = "display:none"/></div>
 
 ## 📫 How to reach me:
 
