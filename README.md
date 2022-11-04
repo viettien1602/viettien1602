@@ -3,6 +3,10 @@
 
 <p align = "center"> <img src = "https://visitcount.itsvg.in/api?id=viettien1602&icon=0&color=11"/ alt = "nvitie"></div>
 
+<p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+</p>
+
 ## 📫 How to reach me:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nvt1602/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nv_tien_nvt/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viettien1602/)
@@ -19,11 +23,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=viettien1602&theme=buefy&hide_border=false&include_all_commits=false&count_private=false" alt="nvitie" width="100%"/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=viettien1602&theme=buefy&hide_border=falseb" alt="nvitie" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viettien1602&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="nvitie" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
     </td>
   </tr>
 </table>
