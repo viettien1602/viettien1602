@@ -20,9 +20,9 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=viettien1602&theme=buefy&hide_border=false&include_all_commits=false&count_private=false" alt="nvitie" width="50%"/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=viettien1602&theme=buefy&hide_border=falseb" alt="nvitie" width="50%"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viettien1602&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="nvitie" width="50%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=viettien1602&theme=buefy&hide_border=false&include_all_commits=false&count_private=false" alt="nvitie" width="70%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=viettien1602&theme=buefy&hide_border=falseb" alt="nvitie" width="70%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viettien1602&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="nvitie" width="70%"/>
     </td>
   </tr>
 </table>
