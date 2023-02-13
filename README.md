@@ -9,7 +9,7 @@
 
 ## 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viettien1602/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nvt1602/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nv_tien_nvt/) [![Telegram](https://img.shields.io/badge/Telegram-%23000000.svg?logo=Telegram&logoColor=white)](https://web.telegram.org/z/#5249493950) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](nvtien1602.forwork@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viettien1602/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nvt1602/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nv_tien_nvt/) [![Telegram](https://img.shields.io/badge/Telegram-%23000000.svg?logo=Telegram&logoColor=white)](https://web.telegram.org/z/#5249493950) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:nvtien1602.forwork@gmail.com)
 
 ## 💻 Languages and Tools:
 
