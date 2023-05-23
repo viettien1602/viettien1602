@@ -4,7 +4,8 @@
 <p align = "center"> <img src = "https://visitcount.itsvg.in/api?id=viettien1602&icon=0&color=11"/ alt = "nvitie"></div>
 
 <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="40%"/>
+        <!-- <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="40%"/> -->
+        <img src="./Picture1.gif" alt="dev" width="40%"/>
 </p>
 
 ## 📫 How to reach me:
